@@ -1,0 +1,215 @@
+*
+{
+    box-sizing: border-box;
+}
+body
+{
+    margin: 8px;
+    padding: 10px;
+}
+.title
+{
+    font-family: "Snell Roundhand";
+font-weight: normal;
+font-size: 60px;
+text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.posts
+{
+
+    display: flex;
+    width: 100%; 
+  
+}
+.img-post2
+{
+    width: 100%;
+}
+.post1
+{
+    
+    
+    padding: 0 10px;
+    width: 25%;
+    
+    
+    
+   
+    border: 1px solid black;
+}
+.post2
+{
+    padding: 0 10px;
+    
+ 
+    width:50%;
+  
+    border: 1px solid black;
+}
+.post3
+{
+    padding: 0 10px;
+    width: 25%;
+    
+    border: 1px solid black;
+}
+.post4
+{
+    padding: 0 10px;
+    
+    justify-content: center;
+ width:25%;
+    border: 1px solid black;
+    border-top: 3px solid black;
+}
+.headline1 {
+    text-align: center;
+    font-size: 30px;
+text-align: center;
+font-weight: normal;
+font-style: italic;
+}
+.headline2 {
+    text-align: center;
+    font-size: 30px;
+text-align: center;
+font-weight: normal;
+font-style: italic;
+}
+.headline3 {
+    text-align: center;
+    font-size: 30px;
+text-align: center;
+font-weight: normal;
+font-style: italic;
+}
+.headline4 {
+    text-align: center;
+    font-size: 30px;
+text-align: center;
+font-weight: normal;
+font-style: italic;
+}
+.content-hed1
+{
+    margin-top:80px;
+    
+}
+.container2
+{
+    display: flex;
+width: 100%;
+align-items: stretch;
+border-bottom: 3px solid black;
+border-left: 1px solid black;
+}
+.links
+{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    border-top: 3px solid black;
+    width:75%;
+}
+.link1
+{
+    
+    background-color: #ffeaa7;
+    display: flex;
+align-items: center;
+flex: 1;
+    
+}
+.a1
+{
+    
+text-decoration: none;
+font-size: 30px;
+padding-left: 30px;
+font-weight: bold;
+font-family: "Futura";
+color: #666;
+}
+.link2
+{
+    
+    background-color: #81ecec;;
+    display: flex;
+align-items: center;
+flex: 1;
+    
+}
+.a2
+{
+    
+text-decoration: none;
+font-size: 30px;
+padding-left: 30px;
+font-weight: bold;
+font-family: "Futura";
+color: #666;
+}
+.link3
+{
+    
+    background-color: #55efc4;;
+    display: flex;
+align-items: center;
+flex: 1;
+    
+}
+.a3
+{
+    
+text-decoration: none;
+font-size: 30px;
+padding-left: 30px;
+font-weight: bold;
+font-family: "Futura";
+color: #666;
+}
+.link4
+{
+    
+    background-color: #74b9ff;;
+    display: flex;
+align-items: center;
+flex: 1;
+    
+}
+.a4
+{
+    
+text-decoration: none;
+font-size: 30px;
+padding-left: 30px;
+font-weight: bold;
+font-family: "Futura";
+color: #666;
+}
+.link5
+{
+    
+    background-color: #a29bfe;;
+    display: flex;
+align-items: center;
+flex: 1;
+    
+}
+.a5
+{
+    
+text-decoration: none;
+font-size: 30px;
+padding-left: 30px;
+font-weight: bold;
+font-family: "Futura";
+color: #666;
+}
+
