@@ -1,0 +1,124 @@
+*
+{
+    box-sizing: border-box;
+}
+body
+{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+button {
+    background: transparent;
+    box-shadow: 0px 0px 0px transparent;
+    border: 0px solid transparent;
+    text-shadow: 0px 0px 0px transparent;
+    color: #E9EBEA;
+    }
+.contain
+{
+    background-color: #414040e3;
+     width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    color:white;
+    border-radius:12px;
+}
+.first
+{
+    display: flex;
+    flex-direction: row;
+}
+.second
+{
+    display: flex;
+    flex-direction: row;
+}
+.thirds
+{
+    display: flex;
+    flex-direction: row;
+}
+.fourth
+{
+    display: flex;
+    flex-direction: row;
+}
+.mode
+{
+    display: flex;
+    flex-direction: row;
+}
+.btnbody
+{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin:0.95px;
+    width:52px;
+    height:52px;
+    background-color:#464646;
+    font-family: 'Roboto', sans-serif;
+
+font-size: 20px;
+font-weight: 100;
+color: #E9EBEA;
+}
+.btnbody:hover{
+    background-color:rgba(92, 92, 92, 0.493);
+}
+.btnZeo
+{
+    
+    width:160px;
+    height:52px;
+    border-bottom-left-radius: 12px;
+    
+   
+}
+.btnbodyBack
+{
+    
+    width:106px;
+    height:52px;
+    
+}
+.opr-
+{
+    font-size: 30px;
+    font-weight: 100;
+}
+.btncolor
+{
+    background-color:rgb(255,157,0);
+    color:white;
+}
+.btncolor:hover
+{
+    background-color:rgba(255, 157, 0, 0.74);
+}
+.display
+{
+    padding:27px;
+    display:flex;
+    max-width:210px;
+    justify-content: flex-end;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.equal
+{
+    border-bottom-right-radius: 12px;
+    
+}
+.AC
+{
+    background-color: #3E3E3E;
+}
+.back
+{
+    background-color: #3E3E3E;
+}
